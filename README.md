@@ -17,7 +17,7 @@ Users can view plans, subscribe, manage payments, and track active subscriptions
 | Backend   | Java Spring Boot   |
 | Database  | MySQL              |
 | APIs      | RESTful APIs       |
-| Architecture | Layered (Controller → Service → Repository) |
+
 
 ---
 
@@ -32,19 +32,3 @@ Users can view plans, subscribe, manage payments, and track active subscriptions
 
 ---
 
-## 🖼 Screenshot / Demo
-
-![Screenshot](https://via.placeholder.com/600x300?text=Your+App+Screenshot)
-
-> Replace the above image link with an actual screenshot of your app.
-
----
-
-## ⚙️ Installation
-
-### Backend
-
-```bash
-cd backend
-./mvnw spring-boot:run   # Linux/macOS
-mvnw.cmd spring-boot:run # Windows
